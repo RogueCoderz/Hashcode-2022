@@ -1,6 +1,6 @@
 # rogueCoderz
 
-[@aabhasKrJha](https://github.com/RogueCoderz/Hashcode-2022) add our teams description
+[@aabhasKrJha](#) add our teams description
 
 ## Description
 
