@@ -2,7 +2,7 @@ n =  int(input())
 
 like_set = set()
 dislike_set = set()
-
+# main code
 for _ in range(n):
     likes = set(input().split(" ")[1:])
     dislikes = set(input().split(" ")[1:])
