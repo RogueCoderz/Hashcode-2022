@@ -25,7 +25,7 @@ Shivam Shandilya
 [@legitShivam](http://shivam.rf.gd/portfolio.html)
 
 Manan Nag
-[@mananNag](https://twitter.com/handsome_sid03?t=D7mW-CgBiEY6vtU85rYVlw&s=08)
+[@codeWithManan](https://twitter.com/handsome_sid03?t=D7mW-CgBiEY6vtU85rYVlw&s=08)
 
 ## Version History
 
