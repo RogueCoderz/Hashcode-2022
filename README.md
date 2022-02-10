@@ -1,6 +1,6 @@
 # rogueCoderz
 
-@abhasKrJha add our teams description
+@aabhasKrJha add our teams description
 
 ## Description
 
