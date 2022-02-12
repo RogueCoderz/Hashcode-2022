@@ -9,3 +9,4 @@ for _ in range(clients):
 
 ingredients = set(sorted(like_ingredients)) - set(sorted(dislike_ingredients))
 print(f"{len(ingredients)} " + ' '.join(list(ingredients)))
+
