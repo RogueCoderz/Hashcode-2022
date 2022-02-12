@@ -1,4 +1,4 @@
-with open("input_data/e_elaborate.in.txt", "r") as f:
+with open("input_data/d_difficult.in.txt", "r") as f:
     input_str = f.read().split()[1:]
 
 like_set = set()
@@ -35,3 +35,5 @@ ingredients = set(sorted(ingredients))
 
 out_str = " ".join(ingredients)
 print(f"{len(ingredients)} {out_str}")
+with open("output_data/d_difficult.out.txt", "w") as f:
+    f.write(f"{len(ingredients)} {out_str}")
