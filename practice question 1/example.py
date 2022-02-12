@@ -1,4 +1,4 @@
-with open("input_data/c_coarse.in.txt", "r") as f:
+with open("input_data/e_elaborate.in.txt", "r") as f:
     input_str = f.read().split()[1:]
 
 like_set = set()
@@ -31,6 +31,7 @@ while indexing:
 
 common = like_set.intersection(dislike_set)
 ingredients = like_set.difference(common)
+ingredients = set(sorted(ingredients))
 
 out_str = " ".join(ingredients)
 print(f"{len(ingredients)} {out_str}")

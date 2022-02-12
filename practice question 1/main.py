@@ -11,6 +11,7 @@ for _ in range(n):
 
 common = like_set.intersection(dislike_set)
 ingredients = like_set.difference(common)
+# ingredients = set(sorted(ingredients))
 
 out_str = " ".join(ingredients)
 print(f"{len(ingredients)} {out_str}")
