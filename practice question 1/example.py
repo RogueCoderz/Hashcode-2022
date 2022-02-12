@@ -35,5 +35,7 @@ ingredients = set(sorted(ingredients))
 
 out_str = " ".join(ingredients)
 print(f"{len(ingredients)} {out_str}")
-with open("output_data/d_difficult.out.txt", "w") as f:
-    f.write(f"{len(ingredients)} {out_str}")
+
+# to dump the output to a file inside output_data folder
+# with open("output_data/d_difficult.out.txt", "w") as f:
+#     f.write(f"{len(ingredients)} {out_str}")
