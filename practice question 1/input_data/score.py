@@ -1,7 +1,9 @@
 import linecache
 
-input_filename = "a_an_example.in.txt"
-output_filename="Ans.txt" 
+input_filename = input("enter input file : ")
+output_filename= input("enter output file : ")
+
+output_filename = f"../output_data/{output_filename}.out.txt"
 
 
 pl = int(linecache.getline(input_filename, 1))
